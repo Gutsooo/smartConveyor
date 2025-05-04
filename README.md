@@ -3,6 +3,8 @@
 ## Overview
 
 The **Smart Conveyor System** is an automated solution designed to identify and sort objects on a conveyor belt using a Raspberry Pi, AI-based object detection, and MQTT communication. This system halts the conveyor when an object is detected, classifies the object using a camera and AI model, and then directs it appropriately using servo motors controlled by ESP microcontrollers.
+🎥 [Watch the Smart Conveyor in Action](https://drive.google.com/file/d/1hLAeiBzJ71vaH0AOHvNvYb3Yvs5c3pFR/view?usp=drive_link)
+
 
 ## Folder Structure
 ```bash
