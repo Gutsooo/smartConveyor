@@ -12,7 +12,7 @@ smartConveyor/
 ├── Other_sensors/        # Code for additional sensors
 ├── esp's/                # ESP firmware
 ├── README.md   
-
+```
 ## Features
 
 - **Automated Conveyor Control**: Uses an IR sensor to detect objects and stop the conveyor for processing.
